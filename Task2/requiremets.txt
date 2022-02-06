@@ -1,0 +1,8 @@
+pandas
+requests
+json
+os
+pillow
+pdf2image
+bs4
+pytesseract
