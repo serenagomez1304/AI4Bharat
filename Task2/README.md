@@ -9,7 +9,7 @@ This project performs a extraction of text from a pdf; and the page url, pdf url
     > brew install poppler
 * Run
     > pip install -r requirements.txt
-* Download tesseract (trained data files)[https://github.com/tesseract-ocr/tessdata/releases]
+* Download tesseract [traineddata files](https://github.com/tesseract-ocr/tessdata/releases)
 * Add enviroment variable TESSDATA_PREFIX="/<path to tessdata-4.1.0/>/tessdata-4.1.0/"
 
 ## How to use
