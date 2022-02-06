@@ -1,6 +1,6 @@
 # PDF Extractor
 
-This project performs a extraction of text from a pdf, and the page url, pdf url and pdf content for each padf. The result is returned in the form of a json file.
+This project performs a extraction of text from a pdf; and the page url, pdf url and pdf content for each pdf. The result is returned in the form of a json file.
 
 ## Prerequisistes
 * Install tessearct
